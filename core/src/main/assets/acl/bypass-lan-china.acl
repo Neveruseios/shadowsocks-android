@@ -6217,6 +6217,7 @@
 (^|\.)corumcollege\.com$
 (^|\.)cos-moe\.com$
 (^|\.)cosmic\.monar\.ch$
+(^|\.)comicvine\.com$
 (^|\.)cosplayjav\.pl$
 (^|\.)cotweet\.com$
 (^|\.)coursehero\.com$
@@ -6989,6 +6990,9 @@
 (^|\.)giga-web\.jp$
 (^|\.)gigporno\.ru$
 (^|\.)girlbanker\.com$
+(^|\.)github\.com$
+(^|\.)gist.github\.com$
+(^|\.)raw.githubusercontent\.com$
 (^|\.)git\.io$
 (^|\.)gizlen\.net$
 (^|\.)gjczz\.com$
@@ -9940,6 +9944,7 @@
 (^|\.)wapedia\.mobi$
 (^|\.)warbler\.iconfactory\.net$
 (^|\.)waselpro\.com$
+(^|\.)washingtonpost\.com$
 (^|\.)washeng\.net$
 (^|\.)watch8x\.com$
 (^|\.)watchinese\.com$
